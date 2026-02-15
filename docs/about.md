@@ -3,9 +3,8 @@ title: "About Me"
 permalink: /about/
 ---
 
-My name is **Your Name**.
+My name is **John Antwi**.
 
 This site documents my work for **LA5880**, including GIS exercises, assignments, and a final project.
 
-I am a professor at Iowa State University, I majored in Landscape Architecture and much of my work 
-focuses on data crowdsourcing, geospatial technology and data visualization. I am originally from North Dakota. etc. etc.
+I am currently a Graduate Student at the Iowa State University at the Iowa State University in the Urban Planning and Development Programme. My Research interest is in Building Sustainable and Resilient Urban areas to enhance the well being of the people and to promote economic growth. I love football and Lionel Messi is my favorite football player.
