@@ -19,7 +19,7 @@ h1 {
 
 .feature__item img {
   max-height: 120px;
-  object-fit: CoverImage;
+  object-fit: cover;
 }
 
 .feature__item img {
