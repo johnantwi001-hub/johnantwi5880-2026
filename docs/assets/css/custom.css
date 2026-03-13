@@ -44,3 +44,9 @@ h1 {
     gap: 0.3rem;
   }
 }
+
+.hero {
+    background-image: url("../images/CoverImage.png");
+    background-size: cover;
+    background-position: center;
+}
