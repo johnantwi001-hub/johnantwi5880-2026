@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "John - LA 5880"
+title: "Urban Solutions_John"
 header:
   overlay_image: /assets/images/CoverImage.png
   overlay_filter: 0.3
-excerpt: "LA5880 – Web Mapping Portfolio"
+excerpt: "Web Mapping and Data Visualization Portfolio"
 custom_head: head/custom.html
 
 ---
