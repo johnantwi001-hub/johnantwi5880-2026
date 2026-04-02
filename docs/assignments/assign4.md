@@ -5,7 +5,7 @@ markdown: false
 ---
 
 
-<iframe src="https://github.com/johnantwi001-hub/johnantwi5880-2026/blob/main/docs/assignments/assign4.html”
+<iframe src="https://johnantwi001-hub.github.io/johnantwi5880-2026/docs/assignments/assign4.html”
         width="100%" 
         height="800px" 
         style="border:none;">
