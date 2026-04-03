@@ -5,7 +5,7 @@ markdown: false
 ---
 
 <div class="tableau-wrapper">
-  <div class='tableauPlaceholder' id='viz1773908351311' style='position: relative'>
+  <div class='tableauPlaceholder' id='viz1775186182425' style='position: relative'>
     <noscript>
       <a href='#'>
         <img alt='Dashboard 1'
@@ -27,25 +27,18 @@ markdown: false
       <param name='display_overlay' value='yes' />
       <param name='display_count' value='yes' />
       <param name='language' value='en-US' />
+      <param name='filter' value='publish=yes' />
     </object>
   </div>
   <script type='text/javascript'>
-    var divElement = document.getElementById('viz1773908351311');
+    var divElement = document.getElementById('viz1775186182425');
     var vizElement = divElement.getElementsByTagName('object')[0];
     if (divElement.offsetWidth > 800) {
-      vizElement.style.minWidth = '420px';
-      vizElement.style.maxWidth = '650px';
-      vizElement.style.width = '100%';
-      vizElement.style.minHeight = '587px';
-      vizElement.style.maxHeight = '887px';
-      vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+      vizElement.style.width = '600px';
+      vizElement.style.height = '727px';
     } else if (divElement.offsetWidth > 500) {
-      vizElement.style.minWidth = '420px';
-      vizElement.style.maxWidth = '650px';
-      vizElement.style.width = '100%';
-      vizElement.style.minHeight = '587px';
-      vizElement.style.maxHeight = '887px';
-      vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+      vizElement.style.width = '600px';
+      vizElement.style.height = '727px';
     } else {
       vizElement.style.width = '100%';
       vizElement.style.height = '877px';
