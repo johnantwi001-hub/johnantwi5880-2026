@@ -3,8 +3,8 @@ title: "Final Project Dashboards"
 permalink: /final-project/dashboards/
 ---
 
-<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw;">
-  <div class="tableauPlaceholder" id="viz1778520706018" style="position: relative">
+<div style="width: 100vw; position: relative; left: 50%; margin-left: -50vw; margin-top: 20px;">
+  <div class="tableauPlaceholder" id="viz1778520706018" style="position: relative; max-width: 1400px; margin: 0 auto;">
     <noscript>
       <a href="#">
         <img alt="Dashboard 1"
